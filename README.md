@@ -10,3 +10,5 @@ Yazıdaki senaryoyu iki farklı şeklini de test edebilirsiniz build ederek .
      kubectl create -f api-service.yml
 
 Yazınıya burada erişebilirsiniz.
+
+https://medium.com/@emirozbirdeveloper/sistemi-en-iyi-bilen-yine-sistemin-kendisidir-78cb0f824c4e
